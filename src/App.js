@@ -6,17 +6,22 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+       
+       <a className="App-link" href="stepup.com.pk">STEPUP</a>
+       <br/>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="stepup.com.pk"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+ Software Development Company
         </a>
+    
+        <p>
+           <code>COMING SOON</code>
+        </p>
+   
       </header>
     </div>
   );
